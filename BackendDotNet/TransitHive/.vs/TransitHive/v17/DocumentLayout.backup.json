@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|c:\\data\\dotnet project by bahvesh\\transithivef\\transithive\\transithive\\helpers\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|solutionrelative:transithive\\helpers\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|c:\\data\\dotnet project by bahvesh\\transithivef\\transithive\\transithive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|solutionrelative:transithive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|c:\\data\\dotnet project by bahvesh\\transithivef\\transithive\\transithive\\helpers\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|solutionrelative:transithive\\helpers\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|c:\\data\\dotnet project by bahvesh\\transithivef\\transithive\\transithive\\controllers\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|solutionrelative:transithive\\controllers\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|c:\\data\\dotnet project by bahvesh\\transithivef\\transithive\\transithive\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|solutionrelative:transithive\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|c:\\data\\dotnet project by bahvesh\\transithivef\\transithive\\transithive\\repositories\\otprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|solutionrelative:transithive\\repositories\\otprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtTokenHelper.cs",
+              "DocumentMoniker": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Helpers\\JwtTokenHelper.cs",
+              "RelativeDocumentMoniker": "TransitHive\\Helpers\\JwtTokenHelper.cs",
+              "ToolTip": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Helpers\\JwtTokenHelper.cs",
+              "RelativeToolTip": "TransitHive\\Helpers\\JwtTokenHelper.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:05:52.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Program.cs",
+              "RelativeDocumentMoniker": "TransitHive\\Program.cs",
+              "ToolTip": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Program.cs",
+              "RelativeToolTip": "TransitHive\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:04:13.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Helpers\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "TransitHive\\Helpers\\EmailHelper.cs",
+              "ToolTip": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Helpers\\EmailHelper.cs",
+              "RelativeToolTip": "TransitHive\\Helpers\\EmailHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T09:51:14.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OtpService.cs",
+              "DocumentMoniker": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Services\\OtpService.cs",
+              "RelativeDocumentMoniker": "TransitHive\\Services\\OtpService.cs",
+              "ToolTip": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Services\\OtpService.cs",
+              "RelativeToolTip": "TransitHive\\Services\\OtpService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T20:44:45.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OtpRepository.cs",
+              "DocumentMoniker": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Repositories\\OtpRepository.cs",
+              "RelativeDocumentMoniker": "TransitHive\\Repositories\\OtpRepository.cs",
+              "ToolTip": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Repositories\\OtpRepository.cs",
+              "RelativeToolTip": "TransitHive\\Repositories\\OtpRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAvwDIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T20:44:43.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OtpController.cs",
+              "DocumentMoniker": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Controllers\\OtpController.cs",
+              "RelativeDocumentMoniker": "TransitHive\\Controllers\\OtpController.cs",
+              "ToolTip": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Controllers\\OtpController.cs",
+              "RelativeToolTip": "TransitHive\\Controllers\\OtpController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T20:44:39.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
