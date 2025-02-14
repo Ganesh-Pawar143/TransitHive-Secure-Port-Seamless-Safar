@@ -170,7 +170,7 @@ function BookingForm({ initialData, onSubmit }) {
 
   return (
     <LoadScript
-      googleMapsApiKey="AIzaSyDnbCLV_Mj1V2K_NYu_Y20BKg-W6zYDpZQ"
+      googleMapsApiKey={process.env.REACT_APP_GOOGLE_MAPS_API_KEY}
       libraries={libraries}
     >
       <NavbarForBookForm hideLinks={true} />
